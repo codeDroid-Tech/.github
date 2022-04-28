@@ -9,9 +9,6 @@
 - 🤝  We're open to collaborating on Next JS Projects
 - ⚡  We're a zyzz brah!
 
-<a href="https://www.github.com/codeDroid-Tech" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/codeDroid-Tech?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /> </a>
-
 ### Skills
 
 #### 💻 Core
@@ -36,15 +33,3 @@ src="https://img.shields.io/github/followers/codeDroid-Tech?logo=github&style=fo
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/489480918357114881" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </a> <a href="https://www.github.com/thebassguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/codeDroid-Tech"><img src="https://github-readme-stats.vercel.app/api?username=codeDroid-Tech&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="codeDroid-Tech's GitHub stats" /> </a>
-
-<a href="http://www.github.com/codeDroid-Tech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codeDroid-Tech&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> </a>
-
-<a href="http://www.github.com/codeDroid-Tech"><img src="https://activity-graph.herokuapp.com/graph?username=codeDroid-Tech&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /> </a>
-
-<a href="https://github.com/codeDroid-Tech" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeDroid-Tech&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /> </a>
