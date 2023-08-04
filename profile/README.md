@@ -1,5 +1,6 @@
-![codeDroid Banner](https://github.com/codeDroid-Tech/.github/assets/83549476/727180b1-55e7-46ec-9cd1-4f52c8dbcdac)
-# Hi 👋 We are codeDroid() Technologies
+![codeDroid Banner](https://github.com/codeDroid-Tech/.github/assets/83549476/ac393db2-5d79-4fb0-af5d-c85639fd2a3e)
+# Hi 👋
+ We are codeDroid() Technologies
 
 ## Web Developers, UI/UX Designer and DevOPS
 
